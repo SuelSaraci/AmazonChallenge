@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AmazonChallenge/static/css/main.cef98c58.chunk.css",
+    "main.js": "/AmazonChallenge/static/js/main.11ff93cd.chunk.js",
+    "main.js.map": "/AmazonChallenge/static/js/main.11ff93cd.chunk.js.map",
+    "runtime-main.js": "/AmazonChallenge/static/js/runtime-main.ed8409fc.js",
+    "runtime-main.js.map": "/AmazonChallenge/static/js/runtime-main.ed8409fc.js.map",
+    "static/js/2.5ac7047a.chunk.js": "/AmazonChallenge/static/js/2.5ac7047a.chunk.js",
+    "static/js/2.5ac7047a.chunk.js.map": "/AmazonChallenge/static/js/2.5ac7047a.chunk.js.map",
+    "static/js/3.024788db.chunk.js": "/AmazonChallenge/static/js/3.024788db.chunk.js",
+    "static/js/3.024788db.chunk.js.map": "/AmazonChallenge/static/js/3.024788db.chunk.js.map",
+    "index.html": "/AmazonChallenge/index.html",
+    "static/css/main.cef98c58.chunk.css.map": "/AmazonChallenge/static/css/main.cef98c58.chunk.css.map",
+    "static/js/2.5ac7047a.chunk.js.LICENSE.txt": "/AmazonChallenge/static/js/2.5ac7047a.chunk.js.LICENSE.txt",
+    "static/media/azaz.f5958336.png": "/AmazonChallenge/static/media/azaz.f5958336.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed8409fc.js",
+    "static/js/2.5ac7047a.chunk.js",
+    "static/css/main.cef98c58.chunk.css",
+    "static/js/main.11ff93cd.chunk.js"
+  ]
+}
