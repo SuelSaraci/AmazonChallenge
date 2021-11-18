@@ -1,6 +1,6 @@
 .header {
-  height: 60px;
   display: flex;
+  height: 60px;
   align-items: center;
   background-color: #131921;
   position: sticky;
@@ -63,4 +63,17 @@
   margin-left: 10px;
   margin-right: 10px;
   color: white;
+}
+@media only screen and (max-device-width: 768px) {
+  .header__logo {
+    width: 55px;
+  }
+  .header__search {
+    display: none;
+  }
+  .header__optionLineTwo {
+    font-size: 10px;
+  }
+}
+@media only screen and (min-device-width: 568px) {
 }

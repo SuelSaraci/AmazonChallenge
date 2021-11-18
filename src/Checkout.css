@@ -15,3 +15,8 @@
   padding: 10px;
   border-bottom: 1px solid lightgray;
 }
+@media only screen and (max-device-width: 768px) {
+  .checkout {
+    display: block;
+  }
+}
