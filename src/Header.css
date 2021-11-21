@@ -64,7 +64,7 @@
   margin-right: 10px;
   color: white;
 }
-@media only screen and (max-device-width: 768px) {
+@media only screen and (max-width: 768px) {
   .header__logo {
     width: 80px;
   }
@@ -72,14 +72,11 @@
     display: none;
   }
   .header__optionLineTwo {
-    font-size: 13px;
+    font-size: 3.5vw;
   }
 }
 @media only screen and (min-device-width: 100px) {
   .header__logo {
     width: 50px;
-  }
-  .header__optionLineTwo {
-    font-size: 13px;
   }
 }
